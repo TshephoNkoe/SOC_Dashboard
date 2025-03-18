@@ -1,5 +1,7 @@
 # SOC Dashboard 🛡️📊
 
+Access the most Updated Version on this URL : https://drive.google.com/drive/folders/1uGZEjLNVrKZl-1wR45b_dCRzWS_dSw2W?usp=drive_link
+
 **A Python-based Security Operations Center Dashboard for real-time monitoring, log analysis, and incident management**
 
 ![Dashboard Preview](background.png) <!-- Use your actual screenshot -->
